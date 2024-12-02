@@ -1,0 +1,25 @@
+# i18n.po
+#
+# License: GNU LESSER GENERAL PUBLIC LICENSE
+#   https://www.gnu.org/software/gettext/manual/html_node/GNU-LGPL.html
+#
+# This file and its contents and all others related to this software are provided
+# AS IS, WITHOUT ANY WARRANTY OR CONDITION, EXPRESS OR IMPLIED.
+#
+# msgfmt --check --output-file src/i18n/i18n/locales/en/LC_MESSAGES/i18n.mo src/i18n/i18n/locales/en/LC_MESSAGES/i18n
+
+msgid ""
+msgstr ""
+"Project-Id-Version: rp 1.0\n"
+"PO-Revision-Date: 2024-09-07 00:00-0500\n"
+"Last-Translator: Name <name@domain.com>\n"
+"Language-Team: English <english@domain.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "/conjunctions"
+msgid "and"
+msgstr "and"

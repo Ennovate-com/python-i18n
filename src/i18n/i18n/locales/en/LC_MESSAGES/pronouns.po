@@ -1,0 +1,159 @@
+# pronouns.po - three forms
+#
+# License: GNU LESSER GENERAL PUBLIC LICENSE
+#   https://www.gnu.org/software/gettext/manual/html_node/GNU-LGPL.html
+#
+# This file and its contents and all others related to this software are provided
+# AS IS, WITHOUT ANY WARRANTY OR CONDITION, EXPRESS OR IMPLIED.
+#
+# msgfmt --check --output-file src/i18n/i18n/locales/en/LC_MESSAGES/pronouns.mo src/i18n/i18n/locales/en/LC_MESSAGES/pronouns
+
+msgid ""
+msgstr ""
+"Project-Id-Version: pronouns 1.0\n"
+"PO-Revision-Date: 2024-12-01 00:00-0500\n"
+"Last-Translator: Name <name@domain.com>\n"
+"Language-Team: English <english@domain.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n==0 ? 3 : 2;\n"
+
+# Pronouns and Determiners
+
+msgid "first_person/subject"
+msgid_plural "first_person/subject"
+msgstr[0] "I"
+msgstr[1] "we both"
+msgstr[2] "we all"
+msgstr[3] "we"
+
+msgid "first_person/object"
+msgid_plural "first_person/object"
+msgstr[0] "me"
+msgstr[1] "both of us"
+msgstr[2] "all of us"
+msgstr[3] "us"
+
+msgid "first_person/possessive_determiner"
+msgid_plural "first_person/possessive_determiner"
+msgstr[0] "my"
+msgstr[1] "both of our"
+msgstr[2] "all of our"
+msgstr[3] "our"
+
+msgid "first_person/possessive"
+msgid_plural "first_person/possessive"
+msgstr[0] "mine"
+msgstr[1] "both of ours"
+msgstr[2] "all of ours"
+msgstr[3] "ours"
+
+msgid "first_person/reflexive"
+msgid_plural "first_person/reflexive"
+msgstr[0] "myself"
+msgstr[1] "ourselves"
+msgstr[2] "ourselves"
+msgstr[3] "ourselves"
+
+msgid "second_person/subject"
+msgid_plural "second_person/subject"
+msgstr[0] "you"
+msgstr[1] "you both"
+msgstr[2] "you all"
+msgstr[3] "you"
+
+msgid "second_person/object"
+msgid_plural "second_person/object"
+msgstr[0] "you"
+msgstr[1] "both of you"
+msgstr[2] "all of you"
+msgstr[3] "you"
+
+msgid "second_person/possessive_determiner"
+msgid_plural "second_person/possessive_determiner"
+msgstr[0] "your"
+msgstr[1] "both of your"
+msgstr[2] "all of your"
+msgstr[3] "your"
+# ? "both of your" - "both of your hands" means one person's two hands, not two different people's hands
+
+msgid "second_person/possessive"
+msgid_plural "second_person/possessive"
+msgstr[0] "yours"
+msgstr[1] "both of yours"
+msgstr[2] "all of yours"
+msgstr[3] "yours"
+
+msgid "second_person/reflexive"
+msgid_plural "second_person/reflexive"
+msgstr[0] "yourself"
+msgstr[1] "both of yourselves"
+msgstr[2] "all of yourselves"
+msgstr[3] "yourselves"
+
+msgid "third_person/subject/male"
+msgstr "he"
+
+msgid "third_person/subject/female"
+msgstr "she"
+
+msgid "third_person/subject"
+msgid_plural "third_person/subject"
+msgstr[0] "they"
+msgstr[1] "they both"
+msgstr[2] "they all"
+msgstr[3] "they"
+
+msgid "third_person/object/male"
+msgstr "him"
+
+msgid "third_person/object/female"
+msgstr "her"
+
+msgid "third_person/object"
+msgid_plural "third_person/object"
+msgstr[0] "them"
+msgstr[1] "both of them"
+msgstr[2] "all of them"
+msgstr[3] "them"
+
+msgid "third_person/determiner/male"
+msgstr "his"
+
+msgid "third_person/determiner/female"
+msgstr "her"
+
+msgid "third_person/determiner"
+msgid_plural "third_person/determiner"
+msgstr[0] "their"
+msgstr[1] "both of their"
+msgstr[2] "all of their"
+msgstr[3] "their"
+
+msgid "third_person/possessive/male"
+msgstr "his"
+
+msgid "third_person/possessive/female"
+msgstr "hers"
+
+msgid "third_person/possessive"
+msgid_plural "third_person/possessive"
+msgstr[0] "theirs"
+msgstr[1] "both of theirs"
+msgstr[2] "all of theirs"
+msgstr[3] "theirs"
+
+msgid "third_person/reflexive/male"
+msgstr "himself"
+
+msgid "third_person/reflexive/female"
+msgstr "herself"
+
+msgid "third_person/reflexive"
+msgid_plural "third_person/reflexive"
+msgstr[0] "themself"
+msgstr[1] "both of themselves"
+msgstr[2] "all of themselves"
+msgstr[3] "themselves"
